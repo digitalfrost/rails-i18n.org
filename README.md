@@ -1,3 +1,5 @@
+** This site uses a [meta refresh redirect](https://developers.google.com/search/docs/advanced/crawling/301-redirects#metarefresh) to redirect to the project's github [page](https://github.com/svenfuchs/rails-i18n)**
+
 # rails-i18n.org
 
 This is a community resource for Rails developers working on I18n. 
